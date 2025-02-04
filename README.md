@@ -1,4 +1,4 @@
-![](https://github.com/amal1310/amal1310/blob/main/WhatsApp%20Video%202025-02-04%20at%2021.58.51_bc5f1942.mp4)
+![](https://github.com/amal1310/amal1310/blob/main/ai%20for%20future.jpg)
 
 
 # AMAL M
@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
 
  ## Top Repositories
 
+coming soon...
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/amal1310)
+[![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/amal1310)
 
 ## Skills
 - ### Languages
@@ -43,6 +44,6 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
 
 
 ## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmamal1310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-m-29b1832bb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_l_a_m_a/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmamal1310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-m-29b1832bb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_l_x_m_a) 
 
 ![Snake animation](https://github.com/amal1310/amal1310/blob/main/assets/github-contribution-grid-snake.svg)
