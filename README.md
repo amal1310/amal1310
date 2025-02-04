@@ -26,49 +26,39 @@ coming soon...
   
    🔹 Data Handling & Processing
 
-      NumPy – Numerical computing (import numpy as np)
-
-      Pandas – Data handling (import pandas as pd
-
+      NumPy – Numerical computing 
+      Pandas – Data handling 
   🔹 visualization
 
-      Matplotlib – Data visualization (import matplotlib.pyplot as plt)
-
-      Seaborn – Statistical plots (import seaborn as sns)
+      Matplotlib – Data visualization 
+      Seaborn – Statistical plots 
 
 
   🔹 Machine Learning (ML)
 
-      Scikit-learn – Traditional ML algorithms (import sklearn)
-
-      XGBoost – Gradient boosting (import xgboost)
+      Scikit-learn – Traditional ML algorithms 
+      XGBoost – Gradient boosting 
 
 
   🔹 Deep Learning (DL)
 
-      TensorFlow – Deep learning framework (import tensorflow as tf)
-
-      Keras – Neural network API (from tensorflow import keras)
+      TensorFlow – Deep learning framework
+      Keras – Neural network API 
   
 
   🔹 Natural Language Processing (NLP)
 
-      NLTK – Basic NLP processing (import nltk)
+      NLTK – Basic NLP processing 
 
 
   🔹 Computer Vision (CV)
 
-      OpenCV – Image processing (import cv2)
-
-
-  🔹 Google Cloud & Colab Utilities
-
-      Google Drive Access → Mount your drive (from google.colab import drive; drive.mount('/content/drive'))
+      OpenCV – Image processing 
 
 - ### Databases
   [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/amal1310)
-- ### Frameworks
-    [![](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDF) ![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/amal1310)
+- ### Tools
+    [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amal1310)
 
 ## Courses
 ![Static Badge](https://img.shields.io/badge/AI%20Engineering-Specialization-%20?style=flat&logo=coursera&color=blue) ![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue) 
@@ -82,7 +72,6 @@ coming soon...
 
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=amal1310&theme=onedark)
-
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmamal1310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-m-29b1832bb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_l_x_m_a) 
