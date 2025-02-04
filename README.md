@@ -1,4 +1,4 @@
-![//](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
+<!-- This is a hidden comment -->![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
 # AMAL M
 ### Citizen Scientist | Data Science Enthusiast | 
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amal1310&theme=dark)](https://github.com/amal1310)
 
-## Top Repositories
+<!-- This is a hidden comment -->## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/amal1310/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/amal1310/IBM-AI-Engineering)
 
 ## IDE
