@@ -21,12 +21,50 @@ coming soon...
 ## Skills
 - ### Languages
   [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/amal1310) 
-- ### Libraries
- ###### * Data Manipulation & Processing
- [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whit) ![](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://github.com/amal1310)
-* Data Visulization
+- ### AI/ML Ecosystem
 
-* 
+  
+   🔹 Data Handling & Processing
+
+      NumPy – Numerical computing (import numpy as np)
+
+      Pandas – Data handling (import pandas as pd
+
+  🔹 visualization
+
+      Matplotlib – Data visualization (import matplotlib.pyplot as plt)
+
+      Seaborn – Statistical plots (import seaborn as sns)
+
+
+  🔹 Machine Learning (ML)
+
+      Scikit-learn – Traditional ML algorithms (import sklearn)
+
+      XGBoost – Gradient boosting (import xgboost)
+
+
+  🔹 Deep Learning (DL)
+
+      TensorFlow – Deep learning framework (import tensorflow as tf)
+
+      Keras – Neural network API (from tensorflow import keras)
+  
+
+  🔹 Natural Language Processing (NLP)
+
+      NLTK – Basic NLP processing (import nltk)
+
+
+  🔹 Computer Vision (CV)
+
+      OpenCV – Image processing (import cv2)
+
+
+  🔹 Google Cloud & Colab Utilities
+
+      Google Drive Access → Mount your drive (from google.colab import drive; drive.mount('/content/drive'))
+
 - ### Databases
   [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/amal1310)
 - ### Frameworks
