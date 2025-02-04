@@ -1,4 +1,4 @@
-![](https://github.com/amal1310/amal1310/blob/main/ai%20for%20future.jpg)
+![](https://github.com/amal1310/amal1310/blob/main/hands%20o%20technology.jpg)
 
 
 # AMAL M
