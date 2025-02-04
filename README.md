@@ -36,8 +36,6 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=amal1310&theme=onedark)
 
-//## Portfolio Website
-//[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.sukhmansingh.tech)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmamal1310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-m-29b1832bb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_l_a_m_a/) 
