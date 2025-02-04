@@ -1,10 +1,10 @@
-//![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
+![//](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
 # AMAL M
-### Citizen Scientist | Data Science Enthusiast | GLEE Team 3055
+### Citizen Scientist | Data Science Enthusiast | 
 
 Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUKHMAN-SINGH-1612&theme=dark)](https://github.com/amal1310)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amal1310&theme=dark)](https://github.com/amal1310)
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/amal1310/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/amal1310/IBM-AI-Engineering)
