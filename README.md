@@ -1,13 +1,18 @@
+![](https://github.com/amal1310/amal1310/blob/main/WhatsApp%20Video%202025-02-04%20at%2021.58.51_bc5f1942.mp4)
+
 
 # AMAL M
-### Citizen Scientist | Data Science Enthusiast | 
+
+###  🚀 **Aspiring Data Scientist** | 💡 **Passionate about AI & Machine Learning** | 📊 **Exploring Data-Driven Solutions**  
+
+
 
 Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amal1310&theme=dark)](https://github.com/amal1310)
 
  ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/amal1310/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal1310-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/amal1310/IBM-AI-Engineering)
+
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/amal1310)
