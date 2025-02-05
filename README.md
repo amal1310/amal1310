@@ -70,7 +70,7 @@ coming soon...
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amal1310&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal1310&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amal1310&show_icons=true&theme=dark&utcOffset=8)](https://github.com/amal1310)
 
 ## GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amal1310&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amal1310)](https://git.io/streak-stats)
 
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=amal1310&theme=onedark)
