@@ -1,4 +1,4 @@
-<img src="https://github.com/amal1310/amal1310/blob/main/Cover%20image.webp" alt="Cover Image" width="800" height="400">
+<img src="https://github.com/amal1310/amal1310/blob/main/Cover%20image.webp" alt="Cover Image" width="800" height="350">
 
 
 # AMAL M
