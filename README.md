@@ -1,4 +1,4 @@
-![](https://github.com/amal1310/amal1310/blob/main/hands%20o%20technology.jpg)
+<img src="https://github.com/amal1310/amal1310/blob/main/Cover%20image.webp" alt="Cover Image" width="800" height="400">
 
 
 # AMAL M
