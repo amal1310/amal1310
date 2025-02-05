@@ -57,6 +57,7 @@ coming soon...
 
 - ### Databases
   [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/amal1310)
+
 - ### Tools
     [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amal1310)
 
@@ -67,8 +68,9 @@ coming soon...
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amal1310&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal1310&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amal1310&show_icons=true&theme=dark&utcOffset=8)](https://github.com/amal1310)
+
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amal1310&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amal1310&theme=dark)](https://git.io/streak-stats)
 
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=amal1310&theme=onedark)
