@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
  ## Top Repositories
 
 <a href="https://github.com/amal1310/netflix-tablue-project-">
-    <img src="https://raw.githubusercontent.com/amal1310/netflix-tablue-project-/main/Screenshot%20(11).png" alt="Netflix Project" width="200"> <a href="https://github.com/amal1310/netflix-tablue-project-">
-    <img src="https://raw.githubusercontent.com/amal1310/netflix-tablue-project-/main/Screenshot%20(11).png" alt="Netflix Project" width="200">
+    <img src="https://github.com/amal1310/netflix-tablue-project-/blob/main/cover.png" alt="Netflix Project" width="200"> 
+ <a href="https://github.com/amal1310/netflix-tablue-project-">
+    <img src=" ***  " alt="Netflix Project" width="200">
 
 
 
