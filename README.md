@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm Amal M, a Data Science enthusiast with a passi
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amal1310&theme=dark)](https://github.com/amal1310)
 
  ## Top Repositories
-
 <a href="https://github.com/amal1310/netflix-tablue-project-">
-    <img src="https://github.com/amal1310/netflix-tablue-project-/blob/main/cover.png" alt="Netflix Project" width="200"> 
- <a href="https://github.com/amal1310/netflix-tablue-project-">
-    <img src=" ***  " alt="Netflix Project" width="200">
+    <img src="https://github.com/amal1310/netflix-tablue-project-/blob/main/cover.png" alt="Netflix Project" width="250" height="200"> 
+ <a href="https://github.com/amal1310/skin-condition-prediction-">
+    <img src="https://github.com/amal1310/skin-condition-prediction-/blob/main/IMAGE%20FOR%20SKIN%20CONDTION.jpg" alt="SKIN CONDITION PREDICTION" width="250" height="200">
 
 
 
